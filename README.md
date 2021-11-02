@@ -1,2 +1,1 @@
-# blog
-public blog repository
+portfolio
